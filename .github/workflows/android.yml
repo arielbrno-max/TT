@@ -26,3 +26,4 @@ jobs:
       with:
         name: truco-bot-apk
         path: bin/*.apk
+      
